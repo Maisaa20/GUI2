@@ -1,9 +1,9 @@
 p, li {
     font-size: 16px;
     line-height: 2;
-    letter-spacing: 1px;
+    letter-spacing: 2px;
     text-align: left;
-    color: rgb(251, 251, 253);
+    color: white;
   }
   img {
     width: 500px;
@@ -14,7 +14,7 @@ p, li {
   p {
     text-align: center;
   }
-  audio {
+  h1 {
     text-align: center;
   }
   

@@ -1,12 +1,39 @@
 h1 {
-    color: blue;
+    color: white;
+  }
+  h2 {
+      color: white;
+  }
+  p {
+    color:white;
+    
+  }
+  h1 {
     font-size: 30px;
     text-align: center;
-  }
-  div {
-    text-align: center;
+    border: solid;
+    border-color: blueviolet;
   }
   h2 {
     font-size: 30px;
-    text-align: left;
+    text-align: center;
+    border: solid;
+    border-color: blueviolet;
   }
+  p, li {
+    font-size: 35px;
+    line-height: 1;
+    letter-spacing: 1px;
+    text-align: center;
+    color: rgb(251, 251, 253);
+  }
+  html {
+    background-color: #060708;
+   }
+   div {
+    text-align: center;
+  }
+   
+  video {
+    margin: auto;
+}
